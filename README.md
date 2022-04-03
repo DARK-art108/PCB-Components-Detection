@@ -49,7 +49,7 @@ Below are some images from label studio:
   <img width="1000" height="500" src="pcb board.PNG" />
 </p>
 
-After labelling the images can get the annotatios in any format like text, pascal voc, coco json.'
+After labelling the images can get the annotatios in any format like text, pascal voc, coco json.
 
 Yolo annotation look like below one
 
